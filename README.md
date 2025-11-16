@@ -2,7 +2,7 @@
 <!--123123
 **Christian51298/Christian51298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you Ym1wY3RuanE=aGFnd21idmM=c3phaG1aHRsZXVxeXA=c3lib2RxY3o=b2VhZnN3eHk=ZGdhYnRwY3k=bmVqbWJ2YWQ=ZGh1YnptdHI=ZHhmamlycHo=ZWx2enNhbnU=bGd5c3hyZHQ=wZmI=cHpsdWR3b3I=bXFqZGV0aHg=started:aXlla3JxYmw=
+Here are some ideas to get you Ym1wY3RuanE=aGFnd21idmM=c3phaG1bWR5c3VmcnQ=aHRsZXVxeXA=c3lib2RxY3o=b2VhZnN3eHk=ZGdhYnRwY3k=bmVqbWJ2YWQ=ZGh1YnptdHI=ZHhmamlycHo=ZWx2enNhbnU=bGd5c3hyZHQ=wZmI=cHpsdWR3b3I=bXFqZGV0aHg=started:aXlla3JxYmw=
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
